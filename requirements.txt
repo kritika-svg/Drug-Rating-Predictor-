@@ -1,0 +1,15 @@
+Core Data Science Libraries
+
+pandas>=1.3.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+Library used for saving/loading ML models and preprocessing objects
+
+joblib>=1.0.1
+
+For regular expression manipulation used in feature engineering
+
+regex>=2021.11.10
